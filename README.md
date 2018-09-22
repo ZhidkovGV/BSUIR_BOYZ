@@ -4,14 +4,11 @@
 # В том числе и мемы!<br>
 ## Вот такие:  <br>
 ![alt text](http://varabei.com/bsuir-tech-week/images/iceberg_2.jpg) 
+## Задания для всех: 
+  https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/TASKS.md  
 ## Мысли, наброски и спойлеры можно найти вот в этом файле:<br>
   https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/THOUGHTS.md
-## ГДЕ ЗАПИСАТЬСЯ??????? <br>
-  В гугл форме, вот тут: <br>
-  https://docs.google.com/spreadsheets/d/1PdDnb03Jw6oKI9r2Ej9zlXWw-yk6P8sQnywn2U-wxxw/edit?usp=sharing <br>
-## А если есть вопросы, мне писать их в конфу?<br>
-Нихуя подобного. Для этого у нас есть отдeльная колонка в гугл доке, вот тут:<br>
-https://docs.google.com/spreadsheets/d/1PdDnb03Jw6oKI9r2Ej9zlXWw-yk6P8sQnywn2U-wxxw/edit?usp=sharing <br>
-Отвечу как смогу. <br>
+## Я вожделею услышать какую нибдуь тему на лекции, где я могу это предложить?<br>
+  Создай новый issue в вкладке issues,и опиши там свою хотелку. Обсуждаем там же  
 ## Полезные ссылки(гайды, статьи, вот это вот все):
 https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/LINKS.md
