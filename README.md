@@ -6,6 +6,8 @@
 ![alt text](http://varabei.com/bsuir-tech-week/images/iceberg_2.jpg) 
 ## Задания для всех: 
   https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/TASKS.md  
+## Ссылки на презентации с лекций:  
+  https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/LECTURES.md  
 ## Мысли, наброски и спойлеры можно найти вот в этом файле:<br>
   https://github.com/ZhidkovGV/BSUIR_BOYZ/blob/master/THOUGHTS.md
 ## Я вожделею услышать какую нибдуь тему на лекции, где я могу это предложить?<br>
