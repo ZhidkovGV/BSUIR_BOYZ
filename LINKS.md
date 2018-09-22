@@ -8,4 +8,6 @@
   <li> Типы данных в плюсах: http://cppstudio.com/post/271/ </li>
   <li> Массивы в плюсах: http://cppstudio.com/post/389/ </li>
   <li> Функции в плюсах: http://cppstudio.com/post/396/</li>
+  <li> Указатели и с чем их хавать (опять же плюсы): http://cppstudio.com/post/423/</li>
+  <li> Ссылочки (рецепт по прожарке на плюсах): http://cppstudio.com/post/429/</li>
 </ul>
