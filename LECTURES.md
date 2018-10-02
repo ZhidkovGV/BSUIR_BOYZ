@@ -1,2 +1,1 @@
-## Ссылки на презентации с лекций  
-  1. Introduction: https://slides.com/glebzhidkov/deck
+## Ссылки на презентации с лекций  обитают тут: https://slides.com/glebzhidkov
