@@ -3,7 +3,12 @@
 using namespace std;
 
 int** init() {
-
+    int length = 0;
+    int ** matrix;
+    cin >> length;
+    matrix = new int* [length];
+    
+    return matrix;
 }
 
 void apply_rules (int** gameField) {
@@ -15,12 +20,14 @@ bool end_of_game (int** currentGameField, int** prevGameField) {
 }
 
 void draw_matrix (int** matrixToDraw) {
-
+    cout << sizeof(matrixToDraw) / sizeof(matrixToDraw[0]) << endl;
 }
 void update_prev_matrix (int** currentGameField, int** prevGameField) {
 
 }
+void clear_matrix (int **matrix) {
 
+}
 void game_loop () {
     int ** gameOfLifeMatrix = init();
     int ** prevMatrix;
@@ -30,9 +37,11 @@ void game_loop () {
         draw_matrix(gameOfLifeMatrix);
         update_prev_matrix(gameOfLifeMatrix, prevMatrix);
     }
+    clear_matrix(gameOfLifeMatrix);
+    clear_matrix(prevMatrix);
 }
 
 int main () {
-    game_loop();
+    
     return 0;
 }
