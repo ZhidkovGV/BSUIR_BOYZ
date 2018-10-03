@@ -1,9 +1,11 @@
 #include <iostream>
+#include <cstdlib>
+#include <unistd.h>
 
 using namespace std;
 
 
-int GLOBAL_LENGTH = 0;
+int GLOBAL_LENGTH = 0;  
 
 int** init() {
     int ** matrix;
@@ -32,12 +34,14 @@ bool end_of_game (int** currentGameField, int** prevGameField) {
 }
 
 void draw_matrix (int** matrixToDraw) {
+    system("clear");
     for (int i = 0; i < GLOBAL_LENGTH; i++) {
         for (int j = 0; j < GLOBAL_LENGTH; j++) {
-            cout << matrixToDraw[i][j];
+            cout << matrixToDraw[i][j] << " ";
         }
         cout << endl;
     }
+    usleep(17);
 }
 
 void update_prev_matrix (int** currentGameField, int** prevGameField) {
