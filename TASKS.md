@@ -33,5 +33,13 @@
     5.1 На третей лекции мы писали свою имлементацию [Игры Жизни Джона Конвея](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%C2%AB%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%C2%BB).  
     В нее закрались 3 бага которые нужно найти и исправить. Код который мы писали обитает [тут](https://github.com/ZhidkovGV/GameOfLifeC-).
     
+ 6. JavaScript Intro
+    6.1 Решаем задачи на [codewars](https://www.codewars.com/kata/search/javascript?q=&beta=false).  
+        Желательно решить 5+ задач. Сложность смотрите сами. Я бы решил 1 на 8 kui, 2 на 7 kui и 2 на 6 kui.  
+    6.2 Читаем [learnjavascript](https://learn.javascript.ru/)  
+    6.3 Неплохо было бы пройти курсы по HTML/CSS/JS на [codeacademy](https://www.codecademy.com/catalog/subject/all)  
+        Проходите пока что базовые интро что бы не тратить много времени. Если будет время лучше порешайте codewars.
+        
+    
         
     
