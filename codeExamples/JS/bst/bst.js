@@ -20,6 +20,14 @@
         }
 
         searchNode (node, value) {
+            if (node) {
+                if (node.value === value) {
+                    return node;
+                }
+                this.searchPosition(node.leftChild, value);
+                this.searchPosition(node.rightChild, value);
+            }
+        }
     }
 
     class TreeNode {
